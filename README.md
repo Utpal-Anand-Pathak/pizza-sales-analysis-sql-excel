@@ -34,22 +34,9 @@ This project analyzes pizza sales using **SQL** for querying and **Excel** for v
 - Excel Slicers, Charts, and PivotTables
 
 ---
-
 ## 🖼 Dashboard Preview
 
-
-
----
-
-## 📁 Project Files
-
-- `pizza_sales_data.xlsx` – Raw dataset  
-- `pizza_dashboard.xlsx` – Final dashboard  
-- `queries.sql` – SQL KPIs and trend queries  
-- `pizza_dashboard.png` – Screenshot of final dashboard  
-- `README.md` – Project overview
+![Pizza Dashboard](./Screenshot%202025-06-10%20160349.png)
 
 ---
-
-
 
